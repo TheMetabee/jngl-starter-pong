@@ -1,0 +1,104 @@
+{
+	"version": "2.0.0",
+	"windows": {
+		"command": ".vscode/build.bat"
+	},
+	"linux": {
+		"args": [
+			"-lc",
+			"cd \"\"${workspaceRoot}\"\" && ([ -f build/build.ninja ] || cmake -Bbuild -G\"Ninja Multi-Config\" -DCMAKE_BUILD_TYPE=Debug) && cd build && ninja && $@"
+		],
+		"command": "/bin/bash"
+	},
+	"osx": {
+		"args": [
+			"-lc",
+			"cd \"\"${workspaceRoot}\"\" && ([ -f build/build.ninja ] || cmake -Bbuild -G\"Ninja Multi-Config\" -DCMAKE_BUILD_TYPE=Debug) && cd build && ninja && $@"
+		],
+		"command": "/bin/bash"
+	},
+	"options": {
+		"env": {
+			"LANG": "C.UTF-8",
+			"PYTHONUNBUFFERD": "1",
+			"MSYSTEM": "MINGW64",
+			"CHERE_INVOKING": "1"
+		}
+	},
+	"tasks": [
+		{
+			"label": "build",
+			"args": [],
+			"problemMatcher": {
+				"owner": "cpp",
+				"fileLocation": [
+					"relative",
+					"${workspaceRoot}/build"
+				],
+				"pattern": {
+					"regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error|fatal error):\\s+(.*)$",
+					"file": 1,
+					"line": 2,
+					"column": 3,
+					"severity": 4,
+					"message": 5
+				}
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "test",
+			"command": "ninja",
+			"args": [
+				"-Cbuild",
+				"test"
+			],
+			"problemMatcher": {
+				"owner": "cpp",
+				"fileLocation": [
+					"relative",
+					"${workspaceRoot}/build/"
+				],
+				"pattern": {
+					"regexp": "^(.*?)[:\\(](\\d+)(:(\\d+))?\\)?:\\s+(warning|error|fatal error):\\s+(.*)$",
+					"file": 1,
+					"line": 2,
+					"column": 4,
+					"severity": 5,
+					"message": 6
+				}
+			},
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "build-android",
+			"command": "make",
+			"args": [
+				"-C",
+				"android"
+			],
+			"problemMatcher": {
+				"owner": "cpp",
+				"fileLocation": "autoDetect",
+				"pattern": {
+					"regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error|fatal error):\\s+(.*)$",
+					"file": 1,
+					"line": 2,
+					"column": 3,
+					"severity": 4,
+					"message": 5
+				}
+			}
+		},
+	],
+	"presentation": {
+		"echo": false,
+		"clear": true
+	}
+}

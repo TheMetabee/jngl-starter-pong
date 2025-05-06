@@ -1,0 +1,23 @@
+# ninja log v5
+1148	1168	7682620290539786	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	5287043f42a4e2f
+1	23	7682620279084035	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	ffd0ebefb35443fc
+1110	1129	7682620290149777	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	a4999d515550f635
+1090	1110	7682620289957004	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	f42ecdfccf98220f
+1	23	7682620279084035	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	ffd0ebefb35443fc
+23	1070	7682620289551045	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	9d40fbe70ff753f
+23	1070	7682620289551045	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	9d40fbe70ff753f
+23	1070	7682620289551045	vorbis-populate-prefix/src/v1.3.7.zip	9d40fbe70ff753f
+23	1070	7682620289551045	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/v1.3.7.zip	9d40fbe70ff753f
+1168	1187	7682620290726096	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	3814da8c89229f
+1070	1090	7682620289758689	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	f65bb660bc2949cc
+1070	1090	7682620289758689	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	f65bb660bc2949cc
+1090	1110	7682620289957004	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	f42ecdfccf98220f
+1168	1187	7682620290726096	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	3814da8c89229f
+1110	1129	7682620290149777	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	a4999d515550f635
+1129	1148	7682620290339766	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	79584d0450aa526a
+1129	1148	7682620290339766	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	79584d0450aa526a
+1148	1168	7682620290539786	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	5287043f42a4e2f
+1187	1214	7682620291000674	CMakeFiles/vorbis-populate-complete	c9fa8ff428da2ed4
+1187	1214	7682620291000674	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	c9fa8ff428da2ed4
+1187	1214	7682620291000674	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	c9fa8ff428da2ed4
+1187	1214	7682620291000674	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	c9fa8ff428da2ed4

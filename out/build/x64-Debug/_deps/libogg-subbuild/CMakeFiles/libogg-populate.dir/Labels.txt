@@ -1,0 +1,14 @@
+# Target labels
+ libogg-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-update.rule

@@ -1,0 +1,14 @@
+# Target labels
+ sdl-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-update.rule

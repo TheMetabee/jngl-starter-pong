@@ -1,0 +1,23 @@
+# ninja log v5
+1	22	7682620432914744	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	ddd9439fba56d167
+1	22	7682620432914744	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	ddd9439fba56d167
+850	870	7682620441387862	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	ff421c117d08b0d0
+22	753	7682620440207471	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	68689b8802ec8096
+22	753	7682620440207471	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	68689b8802ec8096
+772	792	7682620440607885	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	6003e1527d5c3e2a
+753	772	7682620440407848	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f669b1584aa0c599
+753	772	7682620440407848	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f669b1584aa0c599
+792	811	7682620440797877	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	4c239a9c58f96d75
+22	753	7682620440207471	fmt-populate-prefix/src/fmt-6.0.0.zip	68689b8802ec8096
+22	753	7682620440207471	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-6.0.0.zip	68689b8802ec8096
+772	792	7682620440607885	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	6003e1527d5c3e2a
+792	811	7682620440797877	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	4c239a9c58f96d75
+811	831	7682620440997883	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	429d9c918dd10d2b
+811	831	7682620440997883	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	429d9c918dd10d2b
+831	850	7682620441187867	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	585f7063bb59100a
+831	850	7682620441187867	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	585f7063bb59100a
+850	870	7682620441387862	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	ff421c117d08b0d0
+870	898	7682620441667868	CMakeFiles/fmt-populate-complete	a14c34516f59ce2b
+870	898	7682620441667868	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	a14c34516f59ce2b
+870	898	7682620441667868	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	a14c34516f59ce2b
+870	898	7682620441667868	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	a14c34516f59ce2b

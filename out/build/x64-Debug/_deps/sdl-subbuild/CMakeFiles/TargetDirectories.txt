@@ -1,0 +1,3 @@
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate.dir
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/edit_cache.dir
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/rebuild_cache.dir

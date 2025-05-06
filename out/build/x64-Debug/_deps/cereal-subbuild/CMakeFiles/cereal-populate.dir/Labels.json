@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate-complete.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cereal-populate"
+		],
+		"name" : "cereal-populate"
+	}
+}

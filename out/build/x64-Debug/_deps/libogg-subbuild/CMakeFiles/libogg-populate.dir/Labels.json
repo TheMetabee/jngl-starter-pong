@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate-complete.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-build.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-configure.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-download.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-install.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-mkdir.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-patch.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-test.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libogg-populate"
+		],
+		"name" : "libogg-populate"
+	}
+}

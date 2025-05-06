@@ -1,0 +1,2 @@
+set(IOS 1)
+set(CMAKE_SYSTEM_NAME tvOS)

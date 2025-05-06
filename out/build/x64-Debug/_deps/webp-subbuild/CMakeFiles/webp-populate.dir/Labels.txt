@@ -1,0 +1,14 @@
+# Target labels
+ webp-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-update.rule

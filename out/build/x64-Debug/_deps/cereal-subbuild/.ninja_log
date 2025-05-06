@@ -1,0 +1,23 @@
+# ninja log v5
+1	23	7682620459495233	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir	e90c413422f663ec
+1	23	7682620459495233	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir	e90c413422f663ec
+23	847	7682620467728597	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download	7dd3735636a51fce
+23	847	7682620467728597	cereal-populate-prefix/src/v1.3.2.tar.gz	7dd3735636a51fce
+847	866	7682620467929260	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update	ac3e3be9a225ff78
+847	866	7682620467929260	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update	ac3e3be9a225ff78
+23	847	7682620467728597	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download	7dd3735636a51fce
+23	847	7682620467728597	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/v1.3.2.tar.gz	7dd3735636a51fce
+866	886	7682620468129263	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch	f9939b4efa317858
+866	886	7682620468129263	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch	f9939b4efa317858
+886	906	7682620468329253	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure	c2e77a453a5dfcc4
+886	906	7682620468329253	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure	c2e77a453a5dfcc4
+906	925	7682620468519259	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build	11fb2926f2af2121
+906	925	7682620468519259	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build	11fb2926f2af2121
+925	946	7682620468729255	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install	31abe1d3e17bd8ab
+925	946	7682620468729255	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install	31abe1d3e17bd8ab
+946	966	7682620468929249	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test	3767cdfdc3bf3571
+966	994	7682620469199253	cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-done	f7ac00782d896a9f
+946	966	7682620468929249	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test	3767cdfdc3bf3571
+966	994	7682620469199253	CMakeFiles/cereal-populate-complete	f7ac00782d896a9f
+966	994	7682620469199253	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate-complete	f7ac00782d896a9f
+966	994	7682620469199253	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-done	f7ac00782d896a9f

@@ -1,0 +1,23 @@
+# ninja log v5
+1	26	7682620238747286	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-mkdir	d06c6cbac2d98bd5
+27	998	7682620248480468	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-1.3.5.tar.xz	ad607a959ef0a062
+1	26	7682620238747286	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-mkdir	d06c6cbac2d98bd5
+1117	1145	7682620249952822	CMakeFiles/libogg-populate-complete	139909a1cdfc3f73
+27	998	7682620248480468	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-download	ad607a959ef0a062
+27	998	7682620248480468	libogg-populate-prefix/src/libogg-1.3.5.tar.xz	ad607a959ef0a062
+27	998	7682620248480468	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-download	ad607a959ef0a062
+998	1019	7682620248684722	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-update	5da2ea58448eb84e
+998	1019	7682620248684722	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-update	5da2ea58448eb84e
+1019	1039	7682620248884705	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-patch	b78352395e34bfc0
+1019	1039	7682620248884705	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-patch	b78352395e34bfc0
+1039	1058	7682620249085240	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-configure	a3655bc7f8fa44ce
+1039	1058	7682620249085240	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-configure	a3655bc7f8fa44ce
+1058	1078	7682620249273885	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-build	23ed4444d0c8646a
+1058	1078	7682620249273885	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-build	23ed4444d0c8646a
+1078	1097	7682620249472142	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-install	d5e36a968a9def1b
+1078	1097	7682620249472142	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-install	d5e36a968a9def1b
+1097	1116	7682620249668699	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-test	514816de9ecd7630
+1097	1116	7682620249668699	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-test	514816de9ecd7630
+1117	1145	7682620249952822	libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-done	139909a1cdfc3f73
+1117	1145	7682620249952822	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/CMakeFiles/libogg-populate-complete	139909a1cdfc3f73
+1117	1145	7682620249952822	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/libogg-populate-done	139909a1cdfc3f73

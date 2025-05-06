@@ -1,0 +1,14 @@
+# Target labels
+ fmt-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update.rule

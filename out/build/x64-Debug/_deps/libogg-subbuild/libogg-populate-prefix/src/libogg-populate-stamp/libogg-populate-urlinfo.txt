@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/download-libogg-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/verify-libogg-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-subbuild/libogg-populate-prefix/src/libogg-populate-stamp/extract-libogg-populate.cmake
+source_dir=A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/libogg-src
+work_dir=A:/repos/jngl-starter-main/out/build/x64-Debug/_deps
+url(s)=http://downloads.xiph.org/releases/ogg/libogg-1.3.5.tar.xz
+hash=SHA256=c4d91be36fc8e54deae7575241e03f4211eb102afb3fc0775fbbc1b740016705
+no_extract=
+

@@ -1,0 +1,23 @@
+# ninja log v5
+1	21	7682620399598353	webp-populate-prefix/src/webp-populate-stamp/webp-populate-mkdir	21e52312ad93718f
+1	21	7682620399598353	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-mkdir	21e52312ad93718f
+21	689	7682620406278534	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-download	d261fdaafc096672
+21	689	7682620406278534	webp-populate-prefix/src/webp-populate-stamp/webp-populate-download	d261fdaafc096672
+710	729	7682620406678543	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-patch	b8d43305b6dfe3f4
+21	689	7682620406278534	webp-populate-prefix/src/libwebp-1.5.0.tar.gz	d261fdaafc096672
+729	750	7682620406888537	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-configure	5b19f8768e3fe74c
+21	689	7682620406278534	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/libwebp-1.5.0.tar.gz	d261fdaafc096672
+690	710	7682620406488534	webp-populate-prefix/src/webp-populate-stamp/webp-populate-update	6f492e26d06ba483
+770	790	7682620407288542	webp-populate-prefix/src/webp-populate-stamp/webp-populate-install	a3687e54a7b1136
+690	710	7682620406488534	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-update	6f492e26d06ba483
+729	750	7682620406888537	webp-populate-prefix/src/webp-populate-stamp/webp-populate-configure	5b19f8768e3fe74c
+810	837	7682620407758525	CMakeFiles/webp-populate-complete	c5b962ddf2edfead
+810	837	7682620407758525	webp-populate-prefix/src/webp-populate-stamp/webp-populate-done	c5b962ddf2edfead
+710	729	7682620406678543	webp-populate-prefix/src/webp-populate-stamp/webp-populate-patch	b8d43305b6dfe3f4
+750	770	7682620407088544	webp-populate-prefix/src/webp-populate-stamp/webp-populate-build	425558be3d68b863
+750	770	7682620407088544	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-build	425558be3d68b863
+770	790	7682620407288542	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-install	a3687e54a7b1136
+790	810	7682620407478524	webp-populate-prefix/src/webp-populate-stamp/webp-populate-test	2931454dbd8d06dd
+790	810	7682620407478524	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-test	2931454dbd8d06dd
+810	837	7682620407758525	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate-complete	c5b962ddf2edfead
+810	837	7682620407758525	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-done	c5b962ddf2edfead

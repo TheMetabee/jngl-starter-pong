@@ -1,0 +1,276 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"configure_pkg_config"
+		],
+		"files" : 
+		[
+			"out/build/x64-Debug/_deps/webp-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 342,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 343,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 389,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 425,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 442,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 8
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 784,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 794,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 826,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-build/sharpyuv/libsharpyuv.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/webp-build/libsharpyuv.lib"
+			],
+			"targetId" : "sharpyuv::@fb5285ec9f0f83e7771f",
+			"targetIndex" : 9,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include/webp/sharpyuv",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-src/sharpyuv/sharpyuv.h",
+				"out/build/x64-Debug/_deps/webp-src/sharpyuv/sharpyuv_csp.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-build/src/libwebpdecoder.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-build/src/libwebp.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-build/src/demux/libwebpdemux.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/webp-build/libwebpdecoder.lib"
+			],
+			"targetId" : "webpdecoder::@fb5285ec9f0f83e7771f",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/webp",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-src/src/webp/decode.h",
+				"out/build/x64-Debug/_deps/webp-src/src/webp/types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/webp-build/libwebp.lib"
+			],
+			"targetId" : "webp::@fb5285ec9f0f83e7771f",
+			"targetIndex" : 14,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/webp",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-src/src/webp/decode.h",
+				"out/build/x64-Debug/_deps/webp-src/src/webp/encode.h",
+				"out/build/x64-Debug/_deps/webp-src/src/webp/types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/webp-build/libwebpdemux.lib"
+			],
+			"targetId" : "webpdemux::@fb5285ec9f0f83e7771f",
+			"targetIndex" : 17,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "include/webp",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-src/src/webp/decode.h",
+				"out/build/x64-Debug/_deps/webp-src/src/webp/demux.h",
+				"out/build/x64-Debug/_deps/webp-src/src/webp/mux_types.h",
+				"out/build/x64-Debug/_deps/webp-src/src/webp/types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "share/WebP/cmake",
+			"exportName" : "WebPTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "sharpyuv::@fb5285ec9f0f83e7771f",
+					"index" : 9
+				},
+				{
+					"id" : "webpdecoder::@fb5285ec9f0f83e7771f",
+					"index" : 16
+				},
+				{
+					"id" : "webp::@fb5285ec9f0f83e7771f",
+					"index" : 14
+				},
+				{
+					"id" : "webpdemux::@fb5285ec9f0f83e7771f",
+					"index" : 17
+				}
+			],
+			"paths" : 
+			[
+				"_deps/webp-build/CMakeFiles/Export/3dd5097d708f2adcdf4871ccc089782a/WebPTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "share/WebP/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/webp-build/WebPConfigVersion.cmake",
+				"out/build/x64-Debug/_deps/webp-build/WebPConfig.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/webp-build",
+		"source" : "out/build/x64-Debug/_deps/webp-src"
+	}
+}

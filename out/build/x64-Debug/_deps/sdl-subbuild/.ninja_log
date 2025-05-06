@@ -1,0 +1,23 @@
+# ninja log v5
+1	22	7682620319078176	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-mkdir	643c758004c41a79
+22	1760	7682620336464293	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-download	89e00d1c214efcb
+1886	1925	7682620338094533	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-done	71aba69a307a5aeb
+1	22	7682620319078176	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-mkdir	643c758004c41a79
+22	1760	7682620336464293	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-download	89e00d1c214efcb
+22	1760	7682620336464293	sdl-populate-prefix/src/SDL2-2.32.4.zip	89e00d1c214efcb
+22	1760	7682620336464293	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/SDL2-2.32.4.zip	89e00d1c214efcb
+1761	1784	7682620336694273	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-update	9b70d7239583c47b
+1761	1784	7682620336694273	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-update	9b70d7239583c47b
+1886	1925	7682620338094533	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/CMakeFiles/sdl-populate-complete	71aba69a307a5aeb
+1784	1805	7682620336904259	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-patch	b9fb7658f0b5341f
+1784	1805	7682620336904259	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-patch	b9fb7658f0b5341f
+1805	1826	7682620337114260	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-configure	f3f209125a387a8f
+1805	1826	7682620337114260	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-configure	f3f209125a387a8f
+1826	1847	7682620337324257	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-build	b94671521095d96
+1826	1847	7682620337324257	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-build	b94671521095d96
+1886	1925	7682620338094533	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-done	71aba69a307a5aeb
+1847	1866	7682620337524262	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-install	230d4d27622a6479
+1847	1866	7682620337524262	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-install	230d4d27622a6479
+1866	1886	7682620337714286	sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-test	a0948e7c6197286f
+1866	1886	7682620337714286	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/sdl-subbuild/sdl-populate-prefix/src/sdl-populate-stamp/sdl-populate-test	a0948e7c6197286f
+1886	1925	7682620338094533	CMakeFiles/sdl-populate-complete	71aba69a307a5aeb

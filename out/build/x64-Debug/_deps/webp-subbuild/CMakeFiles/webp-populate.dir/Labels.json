@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/CMakeFiles/webp-populate-complete.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-build.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-configure.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-download.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-install.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-mkdir.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-patch.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-test.rule"
+		},
+		{
+			"file" : "A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/webp-subbuild/webp-populate-prefix/src/webp-populate-stamp/webp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"webp-populate"
+		],
+		"name" : "webp-populate"
+	}
+}

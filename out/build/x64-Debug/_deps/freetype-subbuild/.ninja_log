@@ -1,0 +1,23 @@
+# ninja log v5
+1763	1782	7682620310903855	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9f6b6842f8eed11e
+1	24	7682620293317238	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	815d9580ac5c6bfa
+1763	1782	7682620310903855	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9f6b6842f8eed11e
+1	24	7682620293317238	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	815d9580ac5c6bfa
+25	1763	7682620310702831	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-2.13.3.tar.xz	7b712970b3d49a9b
+25	1763	7682620310702831	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	7b712970b3d49a9b
+1880	1908	7682620312158101	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	a86f1935eb552095
+25	1763	7682620310702831	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	7b712970b3d49a9b
+25	1763	7682620310702831	freetype-populate-prefix/src/freetype-2.13.3.tar.xz	7b712970b3d49a9b
+1782	1801	7682620311091775	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	1715c2cfa4f4fe4d
+1782	1801	7682620311091775	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	1715c2cfa4f4fe4d
+1801	1821	7682620311278471	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	56bca6d09b1447b0
+1801	1821	7682620311278471	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	56bca6d09b1447b0
+1821	1840	7682620311478097	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	6d993ce73a39b598
+1821	1840	7682620311478097	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	6d993ce73a39b598
+1840	1859	7682620311668099	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	5ca5dc075260919e
+1840	1859	7682620311668099	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	5ca5dc075260919e
+1859	1879	7682620311868107	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	1045bcd7db8ec4f4
+1859	1879	7682620311868107	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	1045bcd7db8ec4f4
+1880	1908	7682620312158101	CMakeFiles/freetype-populate-complete	a86f1935eb552095
+1880	1908	7682620312158101	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a86f1935eb552095
+1880	1908	7682620312158101	A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a86f1935eb552095

@@ -1,0 +1,14 @@
+# Target labels
+ vorbis-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update.rule

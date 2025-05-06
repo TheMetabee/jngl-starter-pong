@@ -1,0 +1,160 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"out/build/x64-Debug/_deps/libogg-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 122,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 135,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 152,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 158,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 181,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 182,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/libogg-build/ogg.lib"
+			],
+			"targetId" : "ogg::@7565ff3e6bd1af2594f1",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/ogg",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/libogg-build/include/ogg/config_types.h",
+				"out/build/x64-Debug/_deps/libogg-src/include/ogg/ogg.h",
+				"out/build/x64-Debug/_deps/libogg-src/include/ogg/os_types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Ogg",
+			"exportName" : "OggTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "ogg::@7565ff3e6bd1af2594f1",
+					"index" : 7
+				}
+			],
+			"paths" : 
+			[
+				"_deps/libogg-build/CMakeFiles/Export/dee6fd410a50d06b294b496f57355584/OggTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Ogg",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/libogg-build/OggConfig.cmake",
+				"out/build/x64-Debug/_deps/libogg-build/OggConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/libogg-build/ogg.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "share/doc/libogg/html",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/libogg-src/doc/framing.html",
+				"out/build/x64-Debug/_deps/libogg-src/doc/index.html",
+				"out/build/x64-Debug/_deps/libogg-src/doc/oggstream.html",
+				"out/build/x64-Debug/_deps/libogg-src/doc/ogg-multiplex.html",
+				"out/build/x64-Debug/_deps/libogg-src/doc/fish_xiph_org.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/multiplex1.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/packets.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/pages.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/stream.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/vorbisword2.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/white-ogg.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/white-xifish.png",
+				"out/build/x64-Debug/_deps/libogg-src/doc/rfc3533.txt",
+				"out/build/x64-Debug/_deps/libogg-src/doc/rfc5334.txt",
+				"out/build/x64-Debug/_deps/libogg-src/doc/skeleton.html"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "share/doc/libogg/html",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/libogg-src/doc/libogg"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/libogg-build",
+		"source" : "out/build/x64-Debug/_deps/libogg-src"
+	}
+}

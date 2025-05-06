@@ -1,0 +1,14 @@
+# Target labels
+ freetype-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule

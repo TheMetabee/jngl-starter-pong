@@ -1,0 +1,14 @@
+# Target labels
+ cereal-populate
+# Source files and their labels
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/CMakeFiles/cereal-populate-complete.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-build.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-configure.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-download.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-install.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-mkdir.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-patch.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-test.rule
+A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/cereal-subbuild/cereal-populate-prefix/src/cereal-populate-stamp/cereal-populate-update.rule

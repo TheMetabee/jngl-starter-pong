@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/download-vorbis-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/verify-vorbis-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/extract-vorbis-populate.cmake
+source_dir=A:/repos/jngl-starter-main/out/build/x64-Debug/_deps/vorbis-src
+work_dir=A:/repos/jngl-starter-main/out/build/x64-Debug/_deps
+url(s)=https://github.com/xiph/vorbis/archive/v1.3.7.zip
+hash=SHA1=fb943e21c34a1a2035009c06cfbfd9235af406d0
+no_extract=
+

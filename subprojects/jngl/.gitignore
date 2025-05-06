@@ -1,0 +1,22 @@
+*.DS_Store
+/build*/
+Thumbs.db
+/.vscode/.browse*
+/.vscode/tags
+/.vscode/cquery*
+/.vscode/ipch/
+/.vscode/c_cpp_properties.json
+/.ccls-cache/
+/compile_commands.json
+/nintendo
+/.clangd/
+/.cache/
+
+# Visual Studio
+/out/
+/.vs/
+/CMakeSettings.json
+
+# GitLab CI
+/public/
+/.gitlab-ci-local/
